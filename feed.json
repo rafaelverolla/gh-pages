@@ -6,22 +6,36 @@
     "feed_url": "https://rafaelverolla.github.io/gh-pages/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Rafael Verolla"
+        "name": "rafael"
     },
     "items": [
         {
-            "id": "https://rafaelverolla.github.io/gh-pages/teste.html",
-            "url": "https://rafaelverolla.github.io/gh-pages/teste.html",
-            "title": "Teste",
-            "summary": "[{\"id\":1591025321560,\"type\":\"publii-paragraph\",\"content\":\"Só testando mermo mermão\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1591025321560,\"type\":\"publii-paragraph\",\"content\":\"Só testando mermo mermão\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "id": "https://rafaelverolla.github.io/gh-pages/zxczxczxcz.html",
+            "url": "https://rafaelverolla.github.io/gh-pages/zxczxczxcz.html",
+            "title": "Home",
+            "summary": "Bem vindos ao Golem. Esse site é um arquivo virtual com uma grande variedade de material criado para RPG. Personagens, cenários, reviews, opiniões, house rules, tem de tudo um pouco. Ao invés de deixar esse material mofar no fundo do hd, colocamos ele aqui a&hellip;",
+            "content_html": "<p>Bem vindos ao Golem.</p>\n<p>Esse site é um arquivo virtual com uma grande variedade de material criado para RPG. Personagens, cenários, reviews, opiniões, house rules, tem de tudo um pouco.</p>\n<p>Ao invés de deixar esse material mofar no fundo do hd, colocamos ele aqui a disposição da comunidade, com a esperança que esses personagens e mundos possam viver novamente na sua mente e nos seus jogos.</p>\n<p>Futuramente é o nosso desejo colocar material feito de maneira mais profissional. Cenários e aventuras feita em um sistema OGL que podem ser usados independentemente, então, se você se sentiu inspirado pelo material já disponível, recomendamos que deem uma olhada no Golem de vez em quando, à medida que adicinaremos mais e mais material.</p>",
             "author": {
-                "name": "Rafael Verolla"
+                "name": "rafael"
             },
             "tags": [
             ],
-            "date_published": "2020-06-01T17:28:51+02:00",
-            "date_modified": "2020-06-01T17:28:51+02:00"
+            "date_published": "2020-06-01T18:18:21+02:00",
+            "date_modified": "2020-06-01T18:23:25+02:00"
+        },
+        {
+            "id": "https://rafaelverolla.github.io/gh-pages/dsfdfsd.html",
+            "url": "https://rafaelverolla.github.io/gh-pages/dsfdfsd.html",
+            "title": "GURPS",
+            "summary": "GURPS é um sistema que foi extremamente popular no Brasil nos longínquos anos 90, e hoje tem dificuldade em ir além do seu público cativo, em grande parte por uma infâmia desmerecida. GURPS é um sistema simulacionista, seu objeto é representar uma realidade de maneira&hellip;",
+            "content_html": "<p>GURPS é um sistema que foi extremamente popular no Brasil nos longínquos anos 90, e hoje tem dificuldade em ir além do seu público cativo, em grande parte por uma infâmia desmerecida.</p>\n<p>GURPS é um sistema simulacionista, seu objeto é representar uma realidade de maneira fidedigna. Essa realidade pode ser a nossa, ou o mundo do super heróis, um mundo medieval fantástico, entre outros.</p>\n<p> </p>",
+            "author": {
+                "name": "rafael"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-01T17:39:41+02:00",
+            "date_modified": "2020-06-01T18:27:49+02:00"
         }
     ]
 }
